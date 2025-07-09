@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### MAC OS TEMP FILES ###
+.DS_Store
